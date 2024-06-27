@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T04:58:25.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0qs0p7RfBEdaKyYTyDGr" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T05:00:42.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Lwl1L5Iy-3cmp6tBvXK2" version="24.6.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1793" dy="3133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="3078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-32" value="회원의 이전 검색어가&lt;div&gt;존재 하는가?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="65.78" y="-2040" width="130" height="80" as="geometry" />
+          <mxGeometry x="47.31" y="-2045" width="165.67" height="105" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-33" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-32" target="5lkBCsI64QURFf4J93A5-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-34" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#3E17FF;" vertex="1" parent="1">
-          <mxGeometry x="135.78" y="-1950" width="60" height="30" as="geometry" />
+          <mxGeometry x="139.29" y="-1930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-35" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-32" target="5lkBCsI64QURFf4J93A5-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,65 +31,65 @@
             <mxPoint x="131.03" y="-1920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5lkBCsI64QURFf4J93A5-37" value="회원이 담은 관심강좌의 키워드가 존재하는가?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="60.78" y="-1910" width="140" height="87.5" as="geometry" />
+        <mxCell id="5lkBCsI64QURFf4J93A5-37" value="회원이 담은 관심강좌의&lt;div&gt;키워드가 존재하는가?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="44.519999999999996" y="-1880" width="170.15" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-38" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-37" target="5lkBCsI64QURFf4J93A5-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="462.03" y="-1960" as="sourcePoint" />
-            <mxPoint x="272.03" y="-1866" as="targetPoint" />
+            <mxPoint x="463.35999999999996" y="-1937.5" as="sourcePoint" />
+            <mxPoint x="273.35999999999996" y="-1843.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-39" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#FF432E;" vertex="1" parent="1">
-          <mxGeometry x="200.77999999999997" y="-2030" width="60" height="30" as="geometry" />
+          <mxGeometry x="212.02999999999997" y="-2020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-40" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-37" target="5lkBCsI64QURFf4J93A5-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337.28" y="-1940" as="sourcePoint" />
-            <mxPoint x="131.03" y="-1770" as="targetPoint" />
+            <mxPoint x="338.60999999999996" y="-1917.5" as="sourcePoint" />
+            <mxPoint x="132.36" y="-1747.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-41" value="user activity API&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;종료&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(return empty list)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="272.03" y="-1896.25" width="157.5" height="60" as="geometry" />
+          <mxGeometry x="273.35999999999996" y="-1855" width="157.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-42" value="&lt;div&gt;관심지역위도,&lt;/div&gt;&lt;div&gt;관심지역경도&lt;/div&gt;&lt;div&gt;값 추출&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="60.78" y="-1770" width="139.38" height="80" as="geometry" />
+          <mxGeometry x="59.910000000000004" y="-1717.5" width="139.38" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-43" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-42" target="5lkBCsI64QURFf4J93A5-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="382.03" y="-1720" as="sourcePoint" />
-            <mxPoint x="130.16000000000008" y="-1640" as="targetPoint" />
+            <mxPoint x="383.34999999999997" y="-1667.5" as="sourcePoint" />
+            <mxPoint x="131.4800000000001" y="-1587.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-49" value="&lt;font color=&quot;#5d00ff&quot;&gt;&lt;b&gt;이전검색어, 관심강좌키워드, Jaccard Similarity&lt;/b&gt;&lt;/font&gt;&lt;div&gt;AND &lt;font color=&quot;#0066ff&quot;&gt;&lt;b&gt;관심지역 20km 반경 내 강좌&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;Konan Search 6&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;Execute Query&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="29.38" y="-1630" width="201.57" height="110" as="geometry" />
+          <mxGeometry x="30.699999999999996" y="-1577.5" width="201.57" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-51" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-49" target="5lkBCsI64QURFf4J93A5-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="129.76000000000002" y="-1250" as="sourcePoint" />
-            <mxPoint x="129.46" y="-1210" as="targetPoint" />
+            <mxPoint x="131.08000000000004" y="-1197.5" as="sourcePoint" />
+            <mxPoint x="130.78000000000003" y="-1157.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-52" value="추천 강좌번호&lt;div&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;List 취합 후 Return Result&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="60.470000000000006" y="-1460" width="139.38" height="80" as="geometry" />
+          <mxGeometry x="61.790000000000006" y="-1407.5" width="139.38" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-53" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#FF432E;" vertex="1" parent="1">
-          <mxGeometry x="200.77999999999997" y="-1896.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="212.02999999999997" y="-1870" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-55" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#3E17FF;" vertex="1" parent="1">
-          <mxGeometry x="135.78" y="-1822.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="142.11" y="-1770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-57" value="user profile API 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="65.78" y="-1330" width="125" height="60" as="geometry" />
+          <mxGeometry x="67.1" y="-1277.5" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-58" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryPerimeter=0;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-52" target="5lkBCsI64QURFf4J93A5-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130.37" y="-1100" as="sourcePoint" />
-            <mxPoint x="130.37" y="-1050" as="targetPoint" />
+            <mxPoint x="131.69000000000003" y="-1047.5" as="sourcePoint" />
+            <mxPoint x="131.69000000000003" y="-997.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-59" value="&lt;div&gt;키워드&lt;/div&gt;&lt;div&gt;set update 하지 않음&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="272.03" y="-2040" width="139.38" height="80" as="geometry" />
+          <mxGeometry x="272.03" y="-2027.5" width="139.38" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
