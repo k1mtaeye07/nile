@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T05:37:54.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2px0BCe7cMI7FJdfKXjU" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T05:38:02.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vGtpxgd6z1bqzYoe_KuT" version="24.6.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1509" dy="2985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry x="142.11" y="-1770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-57" value="user activity API 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="67.07999999999998" y="-930" width="125" height="60" as="geometry" />
+          <mxGeometry x="58.69" y="-930" width="142.92" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-58" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryPerimeter=0;" edge="1" parent="1" source="5lkBCsI64QURFf4J93A5-52" target="5lkBCsI64QURFf4J93A5-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
