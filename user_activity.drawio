@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T06:54:04.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dE_9SWchiXSkx5J8PRbT" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T06:54:16.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Cv3ROkVjs1kl6I2PFHI9" version="24.6.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1509" dy="2985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-59" value="&lt;div&gt;키워드&lt;/div&gt;&lt;div&gt;set update 하지 않음&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="272.03" y="-2027.5" width="139.38" height="70" as="geometry" />
+          <mxGeometry x="280.84" y="-2027.5" width="139.38" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-61" value="회원의&lt;div&gt;수강완료한&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;강의가&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;존재하는가?&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="59.910000000000025" y="-1700" width="140" height="87.5" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-64" value="제외 대상 강좌번호&lt;div&gt;set update 하지 않음&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="280.8400000000001" y="-1696.25" width="139.38" height="80" as="geometry" />
+          <mxGeometry x="273.36000000000007" y="-1696.25" width="139.38" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-65" value="제외 대상 강좌번호&lt;div&gt;set update&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="59.900000000000034" y="-1540" width="139.38" height="80" as="geometry" />
