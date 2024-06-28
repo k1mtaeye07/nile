@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T02:11:56.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JgaT7kGa-r1yuKQMRutV" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T06:20:44.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wF7EUr8cCTtcWgCw7oUK" version="24.6.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="797" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="956" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,8 +100,8 @@
             <mxPoint x="139.91" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S92XERj_PqHJQFMyFbLS-2" value="$&lt;span class=&quot;hljs-built_in&quot;&gt;J&lt;/span&gt;(A, B) = \frac{|&lt;span class=&quot;hljs-selector-tag&quot;&gt;A&lt;/span&gt;&amp;nbsp;\cap&amp;nbsp;&lt;span class=&quot;hljs-selector-tag&quot;&gt;B&lt;/span&gt;|}{|&lt;span class=&quot;hljs-selector-tag&quot;&gt;A&lt;/span&gt;&amp;nbsp;\cup&amp;nbsp;&lt;span class=&quot;hljs-selector-tag&quot;&gt;B&lt;/span&gt;|}$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="370.01" y="-460" width="60" height="30" as="geometry" />
+        <mxCell id="S92XERj_PqHJQFMyFbLS-4" value="\[&lt;br/&gt;J(A, B) = \frac{|A \cap B|}{|A \cup B|}&lt;br/&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-420" width="139.38" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
