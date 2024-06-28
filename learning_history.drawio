@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T01:37:11.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="d3IMerobanffXhP23mk7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T01:42:10.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vi8_J_c9LbhHR7EU6KS2" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1687" dy="3216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="203.52999999999997" y="-2147.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-5" value="&lt;div&gt;결과 list update&lt;/div&gt;&lt;div&gt;하지 않음&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="263.53" y="-2147.5" width="139.38" height="70" as="geometry" />
+          <mxGeometry x="274" y="-2147.5" width="139.38" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-6" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#3E17FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="123.13" y="-2030" width="60" height="30" as="geometry" />
@@ -69,6 +69,36 @@
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-16" value="&lt;div&gt;결과 list update&lt;/div&gt;&lt;div&gt;하지 않음&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="-1812.5" width="139.38" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-17" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#3E17FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="123.13" y="-1700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-18" value="CF-User-Based 강좌번호 6개 추출,&lt;div&gt;Segmentation 강좌번호 6개 추출&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="44.91999999999996" y="-1510" width="139.38" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-19" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-11" target="kCE3X-bR1YBws0et_Grn-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="123" y="-1705" as="sourcePoint" />
+            <mxPoint x="123" y="-1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-20" value="추천 강좌번호&lt;div&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;List 취합 후 Return Result&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="43.75" y="-1380" width="139.38" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-21" value="learning history API 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50.93999999999999" y="-1240" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-22" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-20" target="kCE3X-bR1YBws0et_Grn-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109.28" y="-1280" as="sourcePoint" />
+            <mxPoint x="109.28" y="-1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCE3X-bR1YBws0et_Grn-23" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-18" target="kCE3X-bR1YBws0et_Grn-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="123" y="-1570" as="sourcePoint" />
+            <mxPoint x="125" y="-1490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
