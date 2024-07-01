@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T02:11:11.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jUQL1YvxkS1Nbhm9BOIV" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T02:13:21.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1WqQ5lr9eQOEsRlBLoa3" version="24.6.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1195" dy="2815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1615" dy="3003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,14 +58,11 @@
         <mxCell id="5lkBCsI64QURFf4J93A5-49" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#5d00ff&quot;&gt;&lt;b style=&quot;&quot;&gt;Jaccard Similarity,&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#0066ff&quot;&gt;&lt;b&gt;Distance &amp;lt; 20km,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;&lt;b style=&quot;&quot;&gt;not in &quot;class serial number&quot;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="29.999999999999993" y="-1210" width="201.57" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5lkBCsI64QURFf4J93A5-51" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" source="5lkBCsI64QURFf4J93A5-49" target="5lkBCsI64QURFf4J93A5-52" edge="1">
+        <mxCell id="5lkBCsI64QURFf4J93A5-51" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" source="5lkBCsI64QURFf4J93A5-49" target="itHvO3yv1iaRsfIF7ifD-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="129.18000000000006" y="-810" as="sourcePoint" />
-            <mxPoint x="128.88000000000005" y="-770" as="targetPoint" />
+            <mxPoint x="129.58000000000015" y="-1020" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5lkBCsI64QURFf4J93A5-52" value="추천 강좌번호&lt;div&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;List 취합 후 Return Result&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="59.89" y="-1020" width="139.38" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-53" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=15;fillColor=none;fontStyle=1;fontColor=#FF432E;" parent="1" vertex="1">
           <mxGeometry x="212.02999999999997" y="-1855" width="60" height="30" as="geometry" />
@@ -74,12 +71,12 @@
           <mxGeometry x="142.11" y="-1770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-57" value="user activity API 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="57.61" y="-870" width="142.92" height="70" as="geometry" />
+          <mxGeometry x="56.36000000000001" y="-860" width="142.92" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5lkBCsI64QURFf4J93A5-58" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryPerimeter=0;" parent="1" source="5lkBCsI64QURFf4J93A5-52" target="5lkBCsI64QURFf4J93A5-57" edge="1">
+        <mxCell id="5lkBCsI64QURFf4J93A5-58" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.446;exitY=1.01;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;exitPerimeter=0;" parent="1" target="5lkBCsI64QURFf4J93A5-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="129.79000000000002" y="-660" as="sourcePoint" />
-            <mxPoint x="129.79000000000002" y="-610" as="targetPoint" />
+            <mxPoint x="129.2199999999997" y="-929.0999999999999" as="sourcePoint" />
+            <mxPoint x="128.64" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lkBCsI64QURFf4J93A5-59" value="&lt;div&gt;키워드&lt;/div&gt;&lt;div&gt;set update 하지 않음&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
@@ -132,6 +129,9 @@
         </mxCell>
         <mxCell id="itHvO3yv1iaRsfIF7ifD-3" value="&lt;font color=&quot;#5d00ff&quot; style=&quot;forced-color-adjust: none; font-family: &amp;quot;Architects Daughter&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none;&quot;&gt;이전검색어, 관심강좌키워드를 강좌명,관심키워드,학습내용에서 각각 Jaccard 유사도 비교 계산 하여&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-family: &amp;quot;Architects Daughter&amp;quot;; text-align: center;&quot; color=&quot;#0066ff&quot;&gt;&lt;b&gt;관심지역 20km 반경 내 강좌를 포함,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(0, 153, 0); background-color: initial; font-family: &amp;quot;Architects Daughter&amp;quot;; text-align: center;&quot;&gt;수강완료한 강의는 제외 한다.&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320.95" y="-1190" width="349.05" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="itHvO3yv1iaRsfIF7ifD-6" value="&lt;span style=&quot;font-family: &amp;quot;Architects Daughter&amp;quot;;&quot;&gt;추천 강좌번호&lt;/span&gt;&lt;div style=&quot;font-family: &amp;quot;Architects Daughter&amp;quot;;&quot;&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;List Return&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="39.06999999999999" y="-1020" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
