@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T06:31:56.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9v_1qsQ8uOonDZW2nIL0" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T06:47:29.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oZk8yAg_V8gm2VK0a5OT" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="989" dy="2847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="2636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -94,7 +94,7 @@
             <mxPoint x="114.61000000000013" y="-1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kCE3X-bR1YBws0et_Grn-24" value="learning history API 호출" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;labelBackgroundColor=none;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kCE3X-bR1YBws0et_Grn-24" value="learning history API 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;labelBackgroundColor=none;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="37.07" y="-1190" width="156.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dnPxp3Yq9yOHqBuiGxyi-0" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;추천 강좌번호&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;List Return&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;fontFamily=나눔손글씨 부장님 눈치체;fontSize=15;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
