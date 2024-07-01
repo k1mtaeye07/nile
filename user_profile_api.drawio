@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T06:25:25.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ejLty0kGzRGXnqeB1r9q" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T06:25:48.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lyGD4Wk11ZHoe_NRAIO3" version="24.6.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1235" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1750" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
             <mxPoint x="271.57" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8HuYiIvFP8ExP7IEhl2--215" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=15;fillColor=none;fontStyle=1;fontColor=#3E17FF;" parent="1" vertex="1">
+        <mxCell id="8HuYiIvFP8ExP7IEhl2--215" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=20;fillColor=none;fontStyle=1;fontColor=#3E17FF;" parent="1" vertex="1">
           <mxGeometry x="145.32" y="-900" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8HuYiIvFP8ExP7IEhl2--217" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" parent="1" source="8HuYiIvFP8ExP7IEhl2--211" target="8HuYiIvFP8ExP7IEhl2--226" edge="1">
@@ -34,7 +34,7 @@
         <mxCell id="8HuYiIvFP8ExP7IEhl2--218" value="user profile API&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;종료&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;(return empty list)&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="281.57" y="-980" width="157.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8HuYiIvFP8ExP7IEhl2--223" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=15;fillColor=none;fontStyle=1;fontColor=#FF432E;" parent="1" vertex="1">
+        <mxCell id="8HuYiIvFP8ExP7IEhl2--223" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=20;fillColor=none;fontStyle=1;fontColor=#FF432E;" parent="1" vertex="1">
           <mxGeometry x="210.32" y="-980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8HuYiIvFP8ExP7IEhl2--226" value="관심키워드,&lt;div style=&quot;font-size: 15px;&quot;&gt;관심지역위도,&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;관심지역경도&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;값 추출&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
@@ -76,17 +76,17 @@
             <mxPoint x="140.2" y="-438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8HuYiIvFP8ExP7IEhl2--245" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=15;fillColor=none;fontStyle=1;fontColor=#FF432E;" parent="1" vertex="1">
+        <mxCell id="8HuYiIvFP8ExP7IEhl2--245" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=20;fillColor=none;fontStyle=1;fontColor=#FF432E;" parent="1" vertex="1">
           <mxGeometry x="210.32" y="-716.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8HuYiIvFP8ExP7IEhl2--247" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=15;fillColor=none;fontStyle=1;fontColor=#3E17FF;" parent="1" vertex="1">
+        <mxCell id="8HuYiIvFP8ExP7IEhl2--247" value="YES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=나눔손글씨 부장님 눈치체;fontSize=20;fillColor=none;fontStyle=1;fontColor=#3E17FF;" parent="1" vertex="1">
           <mxGeometry x="145.32" y="-630" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8HuYiIvFP8ExP7IEhl2--248" value="user profile API 종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;labelBackgroundColor=none;fontStyle=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="69.7" y="-120" width="130.3" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S92XERj_PqHJQFMyFbLS-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Jaccard Similarity 공식&lt;/b&gt;&lt;/div&gt;\[&lt;br style=&quot;font-size: 15px;&quot;&gt;J(A, B) = \frac{|A \cap B|}{|A \cup B|}&lt;br style=&quot;font-size: 15px;&quot;&gt;\]" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=나눔손글씨 부장님 눈치체;fillColor=none;strokeColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="590" y="-432.5" width="140" height="80" as="geometry" />
+          <mxGeometry x="570" y="-427.5" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BTvdHkG63R1qvQy1ZEPR-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;추천 강좌번호&lt;/span&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;List Return&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;fontFamily=나눔손글씨 부장님 눈치체;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="49.69999999999999" y="-270" width="180" height="90" as="geometry" />
