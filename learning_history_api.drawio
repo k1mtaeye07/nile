@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-02T01:27:28.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="XLjxivEUWK1Ti1avX5t_" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-02T01:36:14.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="hDmP4BqntG5mdTeHM8ZV" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="3084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-2" value="회원의 CF-User-Based&lt;div style=&quot;font-size: 11px;&quot;&gt;알고리즘 결과가&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;존재하는가?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="-2195" width="190" height="125" as="geometry" />
+          <mxGeometry x="45" y="-2190" width="180" height="115" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-3" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-2" target="kCE3X-bR1YBws0et_Grn-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-8" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Similarity&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;높은 순으로&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;강좌번호를&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;정렬&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;list append&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="65.30999999999995" y="-2000" width="139.38" height="70" as="geometry" />
+          <mxGeometry x="65.30999999999995" y="-2005" width="139.38" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-9" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-8" target="kCE3X-bR1YBws0et_Grn-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,10 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-10" value="회원의 Segmentation&lt;div style=&quot;font-size: 11px;&quot;&gt;알고리즘 결과가&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;존재하는가?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="-1870" width="190" height="125" as="geometry" />
+          <mxGeometry x="45" y="-1863" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-11" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;seg count&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;높은 순으로&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;강좌번호를&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;정렬 하여&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;list append&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="65.30999999999995" y="-1680" width="139.38" height="70" as="geometry" />
+          <mxGeometry x="65.30999999999995" y="-1690" width="139.38" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-12" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;exitPerimeter=0;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-10" target="kCE3X-bR1YBws0et_Grn-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,7 +77,7 @@
           <mxGeometry x="154.88" y="-1731" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-18" value="CF-User-Based&amp;nbsp;&lt;div&gt;강좌번호 6개 추출,&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;Segmentation&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;강좌번호 6개 추출&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="46.97" y="-1540" width="178.03" height="90" as="geometry" />
+          <mxGeometry x="45.98" y="-1550" width="178.03" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-19" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kCE3X-bR1YBws0et_Grn-11" target="kCE3X-bR1YBws0et_Grn-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,16 +98,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kCE3X-bR1YBws0et_Grn-24" value="learning history&lt;div&gt;API 종료&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;labelBackgroundColor=none;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="58.629999999999995" y="-1210" width="156.25" height="60" as="geometry" />
+          <mxGeometry x="56.87" y="-1240" width="156.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dnPxp3Yq9yOHqBuiGxyi-0" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;추천 강좌번호&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;최대 12개&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;List Return&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#eeeeee;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;fontFamily=Courier New;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="45" y="-1370" width="180" height="90" as="geometry" />
+          <mxGeometry x="44.01" y="-1390" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dnPxp3Yq9yOHqBuiGxyi-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Courier New;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="225.09000000000003" y="-1525" width="75.1" height="60" as="geometry" />
+          <mxGeometry x="225.00000000000003" y="-1535" width="75.1" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dnPxp3Yq9yOHqBuiGxyi-4" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;각 6개씩 추출된 강좌번호는 Vertical line으로 구분하여 return 한다.&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;fontFamily=Courier New;fontSize=11;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="271.56" y="-1515.5" width="280" height="41" as="geometry" />
+          <mxGeometry x="271.47" y="-1525.5" width="280" height="41" as="geometry" />
         </mxCell>
         <mxCell id="O0idcP7yzNyjJ1bOO-zf-4" value="시작/끝" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Courier New;labelBackgroundColor=none;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="547.3499999999999" y="-2300" width="88.44" height="40" as="geometry" />
